@@ -38,7 +38,7 @@ A real-time chat app built using **Thunkable** and **Firebase Realtime DB**.
 ## 👤 Author
 
 **Siddharth Chaudhary**  
-📫 [LinkedIn](https://www.linkedin.com/in/siddharth-chaudhary-6a4345251/) | ✉️ [Email](sssidhuchaudhry@gmail.com:)
+📫 [LinkedIn](https://www.linkedin.com/in/siddharth-chaudhary-6a4345251/) | ✉️ [Email](sssidhuchaudhry@gmail.com)
 
 ---
 
